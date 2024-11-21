@@ -3,8 +3,6 @@
 int main(void) {
 	while(1)
 	{
-		int x;
-		x=1;
-		x=5;
+		
 	}
 } //最后一行留空行
